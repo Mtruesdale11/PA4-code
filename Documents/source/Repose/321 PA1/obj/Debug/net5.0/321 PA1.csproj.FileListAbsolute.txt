@@ -1,0 +1,16 @@
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.csproj.AssemblyReference.cache
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.AssemblyInfo.cs
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\321 PA1.exe
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\321 PA1.deps.json
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\321 PA1.runtimeconfig.json
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\321 PA1.runtimeconfig.dev.json
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\321 PA1.dll
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\ref\321 PA1.dll
+C:\Users\Matth\Documents\source\Repose\321 PA1\bin\Debug\net5.0\321 PA1.pdb
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.dll
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\ref\321 PA1.dll
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.pdb
+C:\Users\Matth\Documents\source\Repose\321 PA1\obj\Debug\net5.0\321 PA1.genruntimeconfig.cache
