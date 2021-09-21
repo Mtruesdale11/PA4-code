@@ -1,0 +1,16 @@
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.csproj.AssemblyReference.cache
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.AssemblyInfo.cs
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\PA2.exe
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\PA2.deps.json
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\PA2.runtimeconfig.json
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\PA2.runtimeconfig.dev.json
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\PA2.dll
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\ref\PA2.dll
+C:\Users\Matth\Documents\source\Repose\PA2\bin\Debug\net5.0\PA2.pdb
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.dll
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\ref\PA2.dll
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.pdb
+C:\Users\Matth\Documents\source\Repose\PA2\obj\Debug\net5.0\PA2.genruntimeconfig.cache
