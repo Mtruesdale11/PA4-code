@@ -20,7 +20,6 @@ namespace PA2
                 Console.WriteLine(" \n1. Choose Ronald");
                 Console.WriteLine("2. Choose Hamburgler");
                 Console.WriteLine("3. Choose Fry Kids");
-                Console.WriteLine("4.Exit");
                 Console.WriteLine("Enter your Choice");
                 string choice = Console.ReadLine();
                 while(choice != "4")

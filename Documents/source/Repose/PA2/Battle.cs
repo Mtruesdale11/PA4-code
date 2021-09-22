@@ -11,6 +11,10 @@ namespace PA2
             {
                 if(GetAttackResult(userCharacter,computerCharacter)== "Game Over")
                 {
+                    if(userCharacter.Health <=0)
+                    {
+                        Console.WriteLine("{0} has lost the fight\n",userCharacter.Name);
+                    }
                     Console.WriteLine("Game Over");
                     break;
                 }
@@ -39,14 +43,27 @@ namespace PA2
             if(fighter1.ToString()=="PA2.Ronald"&&fighter2.ToString()=="PA2.Hamburgler" )
             {
                 dmg2Fighter2 = (fighter1Attk - fighter2Blk)*1.2;
+                if(fighter1Attk < fighter2Blk)
+                {
+                    Console.WriteLine("Attack was blocked!!");
+                }
             }
             else if(fighter1.ToString()=="PA2.Hamburgler"&&fighter2.ToString()=="PA2.FryKids")
             {
                  dmg2Fighter2 = (fighter1Attk - fighter2Blk)*1.2;
+                 if(fighter1Attk < fighter2Blk)
+                {
+                    Console.WriteLine("Attack was blocked!!");
+                }
+
             }
             else if(fighter1.ToString()=="PA2.FryKids"&&fighter2.ToString()=="PA2.Ronald")
             {
                  dmg2Fighter2 = (fighter1Attk - fighter2Blk)*1.2;
+                 if(fighter1Attk < fighter2Blk)
+                {
+                    Console.WriteLine("Attack was blocked!!");
+                }
             }
             else
             {
